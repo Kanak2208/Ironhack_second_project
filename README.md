@@ -51,6 +51,7 @@ age is only 0.34 years — practically negligible. This is a known effect of lar
 sample sizes, where even trivial differences become statistically significant. 
 The experiment groups are considered demographically balanced and the A/B split 
 was fair.
+
 ----------------------------------------------------------------------------------------------------
 ## Hypothesis 3: Time Spent on Steps
 
